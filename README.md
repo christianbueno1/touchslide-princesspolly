@@ -1,7 +1,8 @@
 # Touchslide 
 ## Princess Polly inspiration
 
-It is a carousel inspired by princess polly website
+It is a carousel inspired by princess polly website.
+
 It use
 * JavaScript
 * ResizeObserver
